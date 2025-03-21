@@ -1,8 +1,8 @@
-<h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
+<h1 align="center">Hugo + Tailwind CSS KRaCR Code</h1>
 
-<p align="center">Hugoplate is a free starter template built with Hugo, and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
+<p align="center">It is build with Hugo, and Tailwind CSS v4.0</p>
 
-<p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a></p>
+<p align="center">Made with ♥ by <a href="https://www.linkedin.com/in/yash-singh-iiitd/">Yash Singh</a> and <a href = "https://www.linkedin.com/in/yogesh-kumar-906557263/">Yogesh Kumar</p>
 <p align=center> If you find this project useful, please give it a ⭐ to show your support.</p>
 
 <h2 align="center"> <a target="_blank" href="https://zeon.studio/preview?project=hugoplate" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-hugoplate-netlify-app/6lyxjw6t4r?form_factor=desktop">Page Speed (95+)🚀</a>
@@ -189,22 +189,6 @@ To build your project locally, you can use the following command.
 npm run build
 ```
 
-### 👉 Deploy Site
-
-We have provided 5 different deploy platform configurations with this template, so you can deploy easily.
-
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
-- [Github Actions](https://github.com/features/actions)
-- [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
-- [AWS Amplify](https://aws.amazon.com/amplify/)
-
-And if you want to Host some other hosting platforms. then you can build your project, and you will get a `public` folder. that you can copy and paste on your hosting platform.
-
-> **Note:** You must change the `baseURL` in the `hugo.toml` file. Otherwise, your site will not work properly.
-
----
-
 ## 🔒 Guide to Staying Compliant
 
 ### 🐞 Reporting Issues
@@ -214,24 +198,6 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 ### 📝 License
 
-Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon.studio/)
-
-**Code License:** Released under the [MIT](https://github.com/zeon-studio/hugoplate/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+All rights for the code, images, content, and related materials in this project are reserved by KRaCR Labs, currently managed by Mr. Raghava Mutharaju. For further inquiries or permissions, please contact through <a href = "https://www.linkedin.com/in/raghavamutharaju/">LinkedIn</a>.
 
 ---
-
-## 🖼️ Showcase
-
-List of some projects people are building with **Hugoplate**!
-
-| [![Open Neuromorphic](https://tinyurl.com/hp7avtje)](https://open-neuromorphic.org/) | [![AI Models](https://tinyurl.com/mu4p7dhb)](https://aimodels.org/) | [![Hugobricks](https://tinyurl.com/4x3uwhm9)](https://www.hugobricks.preview.usecue.com/) | [![ONO LLC](https://tinyurl.com/2fbjzwzn)](https://ono.day/)
-|:---:|:---:|:---:|:---:|
-| **Open Neuromorphic** | **AI Models** | **Hugobricks** | **ONO LLC** |
-
----
-
-## 💻 Need Customization?
-
-If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://zeon.studio/estimate-project).
