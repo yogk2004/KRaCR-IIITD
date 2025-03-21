@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Welcome to KRaCR made by yogesh and yash"
+  title: "Welcome to KRaCR"
   content: "Knowledgeable Computing and Reasoning Lab\n Cracker of a Lab"
   image: "/images/banner.png"
   button:
